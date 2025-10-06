@@ -9,10 +9,7 @@ public class MainATMSystem {
         Scanner scanner = new Scanner(System.in);
         BankDatabase bankDatabase = new BankDatabase();
 
-        // Add some default accounts
-        bankDatabase.addAccount(new Account(123456, "Srabon", 1234, 50000.0, "123-456-7890"));
-        bankDatabase.addAccount(new Account(789012, "Arif", 5678, 30000.0, "987-654-3210"));
-
+        
         System.out.println("===== Welcome to ATM System =====");
 
         while (true) {
