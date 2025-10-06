@@ -1,0 +1,77 @@
+===== Welcome to ATM System =====
+
+Main Menu:
+1. Insert ATM Card (Access Account)
+2. Add New Account to Database
+3. Exit
+Choose an option: 1
+
+ATM card detected. Enter account number: 123456
+Enter your PIN: 1234
+Hello Srabon, Have a good day!
+
+===== ATM Menu =====
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Exit
+Choose an option: 1
+Your current balance is: $50000.0
+
+===== ATM Menu =====
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Exit
+Choose an option: 2
+Enter amount to deposit (multiples of $500 only): 1500
+Deposited $1500 successfully!
+
+===== ATM Menu =====
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Exit
+Choose an option: 1
+Your current balance is: $51500.0
+
+===== ATM Menu =====
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Exit
+Choose an option: 3
+Enter amount to withdraw (multiples of $500 only): 2000
+Calling the registered phone number: 123-456-7890...
+Enter your PIN to verify the withdrawal: 1234
+Withdrawn $2000 successfully!
+
+===== ATM Menu =====
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Exit
+Choose an option: 4
+Thank you for using the ATM. Goodbye!
+
+Main Menu:
+1. Insert ATM Card (Access Account)
+2. Add New Account to Database
+3. Exit
+Choose an option: 2
+
+Add New Account:
+Enter new account number: 555555
+Enter account holder name: Tanvir
+Enter PIN: 4321
+Enter initial balance: 10000
+Enter phone number: 555-123-4567
+Account added successfully: 555555
+New account added successfully!
+
+Main Menu:
+1. Insert ATM Card (Access Account)
+2. Add New Account to Database
+3. Exit
+Choose an option: 3
+Exiting system. Goodbye!
